@@ -1,3 +1,11 @@
+<p align = "center"
+   
+ ![Typing ...](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)
+   
+</p>
+
+## 💫 About Me:
+
 - 👋 Hi, I’m @SanchiSujithKumar
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full-stack Development
